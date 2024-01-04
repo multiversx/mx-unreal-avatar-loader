@@ -1,7 +1,7 @@
 #include "AvatarLoaderTexts.h"
 
 const FString AvatarLoaderTexts::PluginTabName = TEXT("AvatarLoader");
-const FString AvatarLoaderTexts::InitialUrl = TEXT("https://example.com");
+const FString AvatarLoaderTexts::InitialUrl = TEXT("https://xportal-avatars-integration.multiversx.com");
 const FText AvatarLoaderTexts::WindowTitle = FText::FromString(TEXT("Multiversx Avatar Loader"));
 const FString AvatarLoaderTexts::InvalidTokenError = TEXT("invalid_token");
 const FString AvatarLoaderTexts::InvalidEnvironmentError = TEXT("invalid_env");
